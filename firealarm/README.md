@@ -2,7 +2,7 @@
 
 This project can serve in offices & other indoor workplaces to detect and alarm about fire 
 
-#Key Feature
+# Key Feature
 - Buzzer starts to sound when it detects flame
 - When no flame is detected green LED is ON.
 - When flame detected red LED is turned ON.
