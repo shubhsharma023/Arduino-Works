@@ -25,7 +25,9 @@ position="center">
 </p>
 
 code
-``// C++ code
+
+```
+// C++ code
 // By- Shubhankar Sharma
 #include <Adafruit_LiquidCrystal.h>
 
@@ -76,4 +78,5 @@ void loop()
     digitalWrite(10, LOW);
   }
   delay(10); // Delay a little bit to improve simulation performance
-}``
+}
+```
