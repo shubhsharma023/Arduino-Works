@@ -1,6 +1,6 @@
 # <h1 align="center"> Alarming using Flame sensor module & Buzzer</h1>
 
-This project can serve in offices & other indoor workplaces to detect and alarm about fire 
+This project can serve in offices & other indoor workplaces to detect and alarm about fire.
 
 ## Key Feature
 - Buzzer starts to sound when it detects flame
