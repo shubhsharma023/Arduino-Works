@@ -29,7 +29,7 @@ width="600px"
 position="center">
 </p>
 
-#code
+# code
 ```
 // C++ code
 // By- Shubhankar Sharma
