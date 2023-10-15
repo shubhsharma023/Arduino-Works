@@ -1,4 +1,4 @@
-#<h1 align="center"> Object Distance Detection using Ultrasonic Sensor</h1>
+<h1 align="center"> Object Distance Detection using Ultrasonic Sensor</h1>
 
 <p align="center">
 <image src="gif.gif"
@@ -6,7 +6,12 @@ width="400px"
 position="center">
 </p>
   <br>
-This project can be served to detect the obstruction distance in front of it using an ultrasonic sensor from which the output is displayed on the liquid crystal display(LED) using the L2C module. 
+This project can serve to detect the obstruction distance in front of it using an ultrasonic sensor from which the output is displayed on the liquid crystal display(LED) using the L2C module. 
+
+#Key Feature
+- LED Display to display the distance of the object coming in front of Ultrasonic Sensor.
+- Red LED starts to glow when object distance is >100cm.
+- The buzzer starts to beep when distance is >20cm
 
 Items which are required to make this project are listed below
 <p align="center">
@@ -24,8 +29,7 @@ width="600px"
 position="center">
 </p>
 
-code
-
+#code
 ```
 // C++ code
 // By- Shubhankar Sharma
