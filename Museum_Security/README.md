@@ -6,26 +6,26 @@ width="400px"
 position="center">
 </p>
   <br>
-This project can be served to detect the obstruction distance in front of it using an ultrasonic sensor from which the output is displayed on the liquid crystal display(LED) using L2C module.
+This project can be served to detect the obstruction distance in front of it using an ultrasonic sensor from which the output is displayed on the liquid crystal display(LED) using the L2C module.
 
 Items which are required to make this project are listed below
 <p align="center">
 <image src="items.png"
-width="400px"
+width="500px"
 position="center">
 </p>
 <br>
 
-The circuitry diagram of the project is given below
+The circuitry diagram of the project is given below.
 
 <p align="center">
-<image src="gif.gif"
-width="500px"
+<image src="circuit.png"
+width="600px"
 position="center">
 </p>
 
 code
-`// C++ code
+``// C++ code
 // By- Shubhankar Sharma
 #include <Adafruit_LiquidCrystal.h>
 
@@ -76,4 +76,4 @@ void loop()
     digitalWrite(10, LOW);
   }
   delay(10); // Delay a little bit to improve simulation performance
-}`
+}``
