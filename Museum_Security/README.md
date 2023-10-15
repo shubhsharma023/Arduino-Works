@@ -6,6 +6,6 @@ The detailed representation of the circuitry diagram is displayed below.
 
 <p align="center">
 <image src="gif.gif"
-width="800px"
+width="500px"
 position="center">
 </p>
